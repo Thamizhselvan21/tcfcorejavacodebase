@@ -1,4 +1,6 @@
-public Class World
+package com.tcf.introjava;
+
+public class World
   {
     public void display()
       {
