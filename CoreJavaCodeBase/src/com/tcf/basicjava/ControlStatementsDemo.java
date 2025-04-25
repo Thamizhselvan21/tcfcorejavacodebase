@@ -7,6 +7,7 @@ public class ControlStatementsDemo {
         // 1. if, if-else, if-else-if
         int number = 10;
         int a;
+        int b;
 
         if (number > 0) {
             System.out.println("Number is positive");
